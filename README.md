@@ -2,8 +2,8 @@
 Hi there 👋  
 I'm **Siddartha Peeka**, a coder leveling up one project at a time.  
 
-- 🕹️ Currently grinding **C++** & **MySQL**  
-- 🎯 Learning quests: **C++**, **.NET**  
+- 🕹️ Currently grinding **Python** & **MySQL**  
+- 🎯 Learning quests: **C#**, **.NET**  
 - 🛡️ Open to co-op missions with **Django**  
 - 💡 Need cheat codes for: **.NET**  
 - 📫 Respawn point: **siddarthapeeka2003@gmail.com**  
