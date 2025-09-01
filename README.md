@@ -7,8 +7,7 @@ I'm **Siddartha Peeka**, a coder leveling up one project at a time.
 - 🛡️ Open to co-op missions with **Django**  
 - 💡 Need cheat codes for: **.NET**  
 - 🏢 Currently interning at **Logic While** as a Python Developer Intern  
-- 📫 Respawn point: **siddarthapeeka2003@gmail.com**  
-- ⚡ Fun fact: *PSPK is Tier 1 HERO* 🚀  
+- 📫 Respawn point: **siddarthapeeka2003@gmail.com**
 
 ---
 
